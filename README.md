@@ -24,7 +24,7 @@ This project is a web application that allows users to enter friends' names into
 
 ## Usage
 
-1. Open the [index.html](http://_vscodecontentref_/0) file in your preferred web browser.
+1. Open the Proyect in your preferred web browser.
 2. Enter your friends' names in the text field and click "Add".
 3. Once you have added all the names, click "Draw Secret Friend" to randomly select a Secret Friend.
 
